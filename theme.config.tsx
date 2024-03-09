@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <img src="https://nadinsoft.com/wp-content/themes/nadin/img/general-logo.png"  alt="logo" width={300} height={150}/>,
+  logo: <span>دانشنامه نادین سافت</span>,
   direction:'rtl',
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
