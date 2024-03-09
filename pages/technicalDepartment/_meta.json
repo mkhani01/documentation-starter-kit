@@ -2,6 +2,8 @@
   "developmentDepartment": "دپارتمان توسعه",
   "infrastructureDepartment": "دپارتمان زیرساخت",
   "QAQCdepartment": "دپارتمان کنترل کیفیت",
-  "support": "پشتیبانی",
-  "security": "امنیت"
+  "security": "امنیت",
+  "values": "ارزش های فرهنگی در دپارتمان فنی",
+  "entryFlow": "فرایند ورود به تیم های فنی",
+  "learnFlow": "فرایند یادگیری افراد"
 }
