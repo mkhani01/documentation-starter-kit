@@ -1,12 +1,10 @@
 {
   "index": "نادین سافت",
   "company": "نادین سافت",
-  "teams": "تیم ها",
+  "teams": "منابع انسانی",
   "technicalDepartment": "دپارتمان فنی",
-  "security": "امنیت",
-  "marketing": "بازاریابی",
-  "sales": "فروش",
-  "legal": "حقوقی",
+  "marketing": "بازاریابی و فروش",
   "product": "محصول",
+  "legal": "حقوقی",
   "finance": "مالی"
 }

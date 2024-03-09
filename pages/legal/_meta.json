@@ -1,7 +1,8 @@
 {
-  "contracts": "قرارداد ها",
+  "contracts": "قراردادهای بیرونی",
   "coperationConditions": "شرایط همکاری",
-  "employees": "کاریمندان",
   "privacy": "حریم شخصی",
-  "productRights": "حقوق محصولات"
+  "productRights": "حقوق مالیکت محصولات",
+  "contractsDomestic": "قراردادهای داخلی",
+  "boardMeetings": "جلسات هیات مدیره"
 }

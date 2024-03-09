@@ -1,12 +1,9 @@
 {
-  "boardMeetings": "جلسات هیات مدیره",
-  "financeStrategies": "برنامه ریزی و آنالیز مالی",
+  "financeStrategies": "گزارشات، برنامه ریزی و آنالیز مالی",
   "innerFunds": "صندوق های داخلی",
-  "insurance": "بیمه",
-  "logistics": "تدارکات",
-  "off": "مرخصی",
+  "insurance": "بیمه و مالیات",
+  "logistics": "اجرایی",
   "salary": "حقوق و دستمزد",
-  "stockManagement": "مدیریت سهام ها",
-  "tax": "مالیات",
-  "workingHours": "ساعات کاری"
+  "investment": "سرمایه گذاری",
+  "assetsManagement": "اموال و دارایی ها"
 }

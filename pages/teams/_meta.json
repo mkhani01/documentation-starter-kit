@@ -1,8 +1,9 @@
 {
   "requite": "استخدام",
-    "leadership": "رهبری",
   "onboarding": "آنبردینگ",
   "communication": "ارتباطات تیم",
   "rewards": "پاداش ",
-  "tools": "ابزارها"
+  "tools": "ابزارها",
+  "off": "مرخصی",
+  "workingHours": "ساعات کاری"
 }
