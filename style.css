@@ -1,0 +1,8 @@
+@font-face {
+    font-family: IRYEKAN;
+    src: url("./fonts/iranyekanwebregularfanum.woff");
+}
+
+body{
+font-family: IRYEKAN;
+}
